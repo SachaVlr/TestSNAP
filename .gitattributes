@@ -1,3 +1,0 @@
-compute_intf.run filter=lfs diff=lfs merge=lfs -text
-goldstein_filter.run filter=lfs diff=lfs merge=lfs -text
-phase_unwrapping.run filter=lfs diff=lfs merge=lfs -text
